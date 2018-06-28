@@ -14,6 +14,10 @@ ol > li {
   padding-left: 1em;
 }
 
+a {
+  text-decoration: underline !important;
+}
+
 /*iframe {
   max-width: 100% !important;
   width: auto !important;
@@ -37,6 +41,7 @@ ol > li {
     font-size: 1.00rem;
     text-align: left;
 }
+
 .report {
   position: relative;
   overflow: hidden;
