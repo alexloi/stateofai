@@ -1,9 +1,10 @@
 html {
-  background-color: #154ee3ff !important;
+  background-color: #F8FAF9 !important;
 }
 body {
   font-family: 'PT Sans', sans-serif;
 }
+
 ol {
   text-align: left;
 }
@@ -29,12 +30,15 @@ a {
 .section {
   height: 100vh;
 }
+.container {
+  color: #27263A !important;
+}
 .middle {
   text-align: center;
   padding-top: 33vh;
 }
 .is-as {
-  background-color: #154ee3ff !important;
+  background-color: #F8FAF9 !important;
 }
 .subtext {
     margin: 20px 0 0 0;
@@ -59,6 +63,10 @@ iframe {
   font-weight: 800;
   font-size: 3rem;
   margin-bottom: 30px !important;
+  color: #27263A !important;
+}
+.as-subtitle {
+  color: #27263A !important;
 }
 .footer1 {
  background-color: #154ee3ff !important;
@@ -71,4 +79,7 @@ iframe {
 }
 .footer-link{
   text-decoration: underline;
+}
+.center {
+  text-align: center;
 }
