@@ -8,12 +8,17 @@ body {
 ol {
   text-align: left;
 }
+.no-list > li {
+  list-style-type: none;
+}
+
 ol > li {
   list-style-type: disc;
   list-style-position: inside;
   text-indent: -1.37em;
   padding-left: 2em;
 }
+
 
 a {
   text-decoration: underline !important;
@@ -82,4 +87,23 @@ iframe {
 }
 .center {
   text-align: center;
+}
+.clearfix {
+  clear:both;
+}
+.user {
+  margin-bottom: 10px;
+}
+.avatar {
+    width: 40px;
+    height: 40px;
+    float: left;
+    background-size: cover;
+    background-position: top center;
+    border-radius: 50%;
+}
+.name {
+  float: left;
+  margin-left: 10px;
+  padding-top: 10px;
 }
