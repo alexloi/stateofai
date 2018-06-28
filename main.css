@@ -12,7 +12,7 @@ ol > li {
   list-style-type: disc;
   list-style-position: inside;
   text-indent: -1.37em;
-  padding-left: 1em;
+  padding-left: 2em;
 }
 
 a {
@@ -31,7 +31,7 @@ a {
   height: 100vh;
 }
 .container {
-  color: #27263A !important;
+  color: #161E59 !important;
 }
 .middle {
   text-align: center;
@@ -63,10 +63,10 @@ iframe {
   font-weight: 800;
   font-size: 3rem;
   margin-bottom: 30px !important;
-  color: #27263A !important;
+  color: #161E59 !important;
 }
 .as-subtitle {
-  color: #27263A !important;
+  color: #161E59 !important;
 }
 .footer1 {
  background-color: #154ee3ff !important;
